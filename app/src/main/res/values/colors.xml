@@ -12,4 +12,7 @@
     <color name="genre1">#FF3466</color>
     <color name="reviewColor">#6D6D80</color>
     <color name="castColor">#D8D8D8</color>
+    <color name="avengersDurationColor">#565665</color>
+    <color name="red">#FF3466</color>
+    <color name="gray">#6D6D80</color>
 </resources>
